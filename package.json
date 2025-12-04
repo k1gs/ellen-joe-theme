@@ -1,0 +1,22 @@
+{
+  "name": "ellen-joe-theme",
+  "displayName": "Ellen Joe Theme",
+  "publisher": "k1gs",
+  "description": "BShark maid theme inspired by Ellen Joe from ZZZ.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ellen Joe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ellen Joe-color-theme.json"
+      }
+    ]
+  }
+}
