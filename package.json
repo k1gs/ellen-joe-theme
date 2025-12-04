@@ -3,6 +3,9 @@
   "displayName": "Ellen Joe Theme",
   "publisher": "k1gs",
   "description": "BShark maid theme inspired by Ellen Joe from ZZZ.",
+  "repository": {
+   "url": "https://github.com/k1gs/ellen-joe-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.1"
