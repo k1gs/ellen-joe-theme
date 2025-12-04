@@ -1,16 +1,48 @@
-# ellen-joe-theme README
+# IF U WANNA USE THIS THEME WITH FULL EXPERIENCE PLEASE DO THIS STEPS
 
-## Working with Markdown
+* Install this [extention](https://github.com/shalldie/vscode-background)
+  **Put this in the end of settings.json**
+```json
+{
+    "background.enabled": true,
+    "background.useDefault": false,
+    "background.editor": {
+        "images": [
+          "https://i.imgur.com/VYT7GDD.png"
+        ],
+        "style": {
+            "position": "absolute",
+            "z-index": "99999",
+            "width": "100%",
+            "height": "100%",
+            "pointer-events": "none",
+            "opacity": 0.20,
+            "background-position": "center",
+            "background-repeat": "no-repeat",
+            "background-size": "cover"
+        },
+        "background.sidebar": {
+         
+        }
+}
+```
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+# Ellen Joe Theme
+* **Screenshots:**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**Python:**
+<div id="top" allign="center">
+         <img src="https://s4.iimage.su/s/04/guCeUg3xcv94yeFt5VoeQNPalCzIzt1c9ZMIGTmT.png">
+</div>
 
-**Enjoy!**
+**C++:**
+<div allign="center">
+   <img src="https://s4.iimage.su/s/04/gkOdDMtxErtHWkSGwb5SmyBoyESvroa6Ziu23XYP.png">
+</div>
+
+**Rust:**
+<div allign="center">
+   <img src="https://s4.iimage.su/s/04/gUSFj3XxWw4mwsOt8vop9iX91zs8p9HVQtZjJvP3.png">
+</div>
